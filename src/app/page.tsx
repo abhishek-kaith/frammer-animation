@@ -116,9 +116,9 @@ const Parallax = () => {
             gives both sides a chance to impress.
           </p>
           <p className="text-lg">
-            Typically 40 hours across 1–2 weeks, we'll work with you on a
-            product audit, new feature, or visual refresh before agreeing a
-            longer term partnership.
+            Typically 40 hours across 1–2 weeks, well work with you on a product
+            audit, new feature, or visual refresh before agreeing a longer term
+            partnership.
           </p>
         </motion.div>
         <div className="space-y-2 h-[50vh]" ref={refTwo}>
@@ -129,9 +129,9 @@ const Parallax = () => {
             gives both sides a chance to impress.
           </p>
           <p className="text-lg">
-            Typically 40 hours across 1–2 weeks, we'll work with you on a
-            product audit, new feature, or visual refresh before agreeing a
-            longer term partnership.
+            Typically 40 hours across 1–2 weeks, well work with you on a product
+            audit, new feature, or visual refresh before agreeing a longer term
+            partnership.
           </p>
         </div>
         <div className="space-y-2 " ref={refThree}>
@@ -142,9 +142,9 @@ const Parallax = () => {
             gives both sides a chance to impress.
           </p>
           <p className="text-lg">
-            Typically 40 hours across 1–2 weeks, we'll work with you on a
-            product audit, new feature, or visual refresh before agreeing a
-            longer term partnership.
+            Typically 40 hours across 1–2 weeks, well work with you on a product
+            audit, new feature, or visual refresh before agreeing a longer term
+            partnership.
           </p>
         </div>
       </div>
